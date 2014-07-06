@@ -1,0 +1,27 @@
+// Image expand
+
+#featureimg {
+  background-image: url('../img/austinskyline.jpg');
+  background-size: cover;
+  // background-attachment: scroll;
+  background-position: center;
+  min-width: 100%;
+  min-height: 72%;
+  h2 {
+    color: #fff;
+    padding-top: 20px;
+  }
+}
+
+
+#thumbpics {
+  padding-bottom: 35px;
+}
+
+.arrow {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  display: block;
+  margin: 0 auto;
+
+}
