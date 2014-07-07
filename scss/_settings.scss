@@ -123,7 +123,7 @@ $body-font-family: "Proxima Nova", "Helvetica", Arial, sans-serif;
 $header-font-family: "Raleway";
 // $header-font-weight: 500;
 // $header-font-style: normal;
-$header-font-color: #072982;
+$header-font-color: #2d3d62;
 // $header-line-height: 1.4;
 // $header-top-margin: .2rem;
 // $header-bottom-margin: .5rem;
@@ -342,7 +342,7 @@ $header-font-color: #072982;
 
 // We use these to control button text styles.
 $button-font-family: $body-font-family;
-// $button-font-color: #fff;
+$button-font-color: #2d3d62;
 // $button-font-color-alt: #333;
 // $button-font-tny: rem-calc(11);
 // $button-font-sml: rem-calc(13);
@@ -1181,7 +1181,7 @@ $topbar-bg-color: #fff;
 $topbar-bg: $topbar-bg-color;
 
 // Height and margin
-$topbar-height: 50px;
+$topbar-height: 64px;
 $topbar-margin-bottom: 30px;
 
 // Controlling the styles for the title in the top bar
