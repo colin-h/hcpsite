@@ -2,9 +2,8 @@
 
 #corporate {
   padding-top: 10px;
-  padding-bottom: 20px;
   p {
-    padding-bottom: 15px;
+    // padding-bottom: 15px;
     text-align: justify;
   }
 }
@@ -16,6 +15,7 @@
   min-width: 100%;
   margin-top: 70px;
   margin-bottom: 20px;
+  overflow: hidden;
   h1 {
     color: #fff;
   }

@@ -20,3 +20,13 @@ $(document).ready(function() {
   });
 
 });
+
+
+// $(document).ready(function(){
+//   $('.single-item').slick({
+//     autoPlay : true,
+//     autoPlaySpeed : 5000,
+//     dots : true,
+//     arrows : true,
+//   });
+// });

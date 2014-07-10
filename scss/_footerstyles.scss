@@ -10,4 +10,45 @@
   h4 {
     color: #fff;
   }
+  .pipeline {
+    color: #63666a;
+  }
 }
+
+
+// Google JSON
+
+// [
+//   {
+//     "featureType": "landscape",
+//     "elementType": "geometry",
+//     "stylers": [
+//       { "color": "#2d3d62" }
+//     ]
+//   },{
+//     "featureType": "poi",
+//     "elementType": "geometry",
+//     "stylers": [
+//       { "color": "#2d3d62" }
+//     ]
+//   },{
+//     "featureType": "poi",
+//     "elementType": "labels.text.fill",
+//     "stylers": [
+//       { "color": "#ffffff" }
+//     ]
+//   },{
+//     "featureType": "poi",
+//     "elementType": "labels.text.stroke",
+//     "stylers": [
+//       { "color": "#2d3d62" }
+//     ]
+//   },{
+//     "featureType": "road.highway",
+//     "elementType": "geometry",
+//     "stylers": [
+//       { "color": "#ffffff" }
+//     ]
+//   },{
+//   }
+// ]

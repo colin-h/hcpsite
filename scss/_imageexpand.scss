@@ -1,15 +1,23 @@
 // Image expand
+$nav-height: 88px;
 
 #featureimg {
-  background-image: url('../img/austinskylinecompressed.jpg');
+  background-image: url('../img/nysky.jpg');
   background-size: cover;
   // background-attachment: scroll;
-  background-position: center;
+  background-position: center top;
   min-width: 100%;
-  min-height: 72%;
+  min-height: 86%;
+  overflow: hidden;
+  margin-bottom: -103px;
+  top: 103px;
+
   h2 {
     color: #fff;
-    padding-top: 20px;
+    margin-top: 80px;
+    padding-left: 5px;
+    background-color: #2d3d62;
+    opacity: 0.9;
   }
 }
 

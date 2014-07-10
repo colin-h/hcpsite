@@ -1,20 +1,20 @@
 @import "settings";
-@import "foundation";
+// @import "foundation";
 
 // Or selectively include components
-// @import
+@import
 //   "foundation/components/accordion",
 //   "foundation/components/alert-boxes",
-//   "foundation/components/block-grid",
+  "foundation/components/block-grid",
 //   "foundation/components/breadcrumbs",
 //   "foundation/components/button-groups",
-//   "foundation/components/buttons",
+  "foundation/components/buttons",
 //   "foundation/components/clearing",
-//   "foundation/components/dropdown",
+  "foundation/components/dropdown",
 //   "foundation/components/dropdown-buttons",
 //   "foundation/components/flex-video",
 //   "foundation/components/forms",
-//   "foundation/components/grid",
+  "foundation/components/grid",
 //   "foundation/components/inline-lists",
 //   "foundation/components/joyride",
 //   "foundation/components/keystrokes",
@@ -32,23 +32,23 @@
 //   "foundation/components/switch",
 //   "foundation/components/tables",
 //   "foundation/components/tabs",
-//   "foundation/components/thumbs",
+  "foundation/components/thumbs",
 //   "foundation/components/tooltips",
-//   "foundation/components/top-bar",
-//   "foundation/components/type",
+  "foundation/components/top-bar",
+  "foundation/components/type",
 //   "foundation/components/offcanvas",
-//   "foundation/components/visibility";
+  "foundation/components/visibility";
 
 
 // Partials
 @import
-  "scss/_sectionheightandcolor",
+  "scss/sectionheightandcolor",
   "scss/imageexpand",
   "scss/overlaystyle",
-  "scss/_corporatestyles",
+  "scss/corporatestyles",
   "scss/footerstyles",
   "scss/valuationstyles",
-  "scss/_navstyle";
+  "scss/navstyle";
 
 
 

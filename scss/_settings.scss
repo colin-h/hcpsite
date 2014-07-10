@@ -56,7 +56,7 @@ $body-font-family: "Proxima Nova", "Helvetica", Arial, sans-serif;
 // $default-float: left;
 
 // We use these as default colors throughout
-// $primary-color: #008CBA;
+$primary-color: #2d3d62;
 // $secondary-color: #e7e7e7;
 // $alert-color: #f04124;
 // $success-color: #43AC6A;
@@ -1133,11 +1133,11 @@ $button-bg: #fff;
 // $include-html-media-classes: $include-html-classes;
 
 // We use these to control border styles
-// $thumb-border-style: solid;
-// $thumb-border-width: 4px;
-// $thumb-border-color: #fff;
-// $thumb-box-shadow: 0 0 0 1px rgba(#000,.2);
-// $thumb-box-shadow-hover: 0 0 6px 1px rgba($primary-color,0.5);
+$thumb-border-style: solid;
+$thumb-border-width: 3px;
+$thumb-border-color: #fff;
+$thumb-box-shadow: 0 0 0 1px rgba(#63666a,.8);
+$thumb-box-shadow-hover: 0 0 6px 1px rgba($primary-color,0.5);
 
 // Radius and transition speed for thumbs
 // $thumb-radius: $global-radius;
