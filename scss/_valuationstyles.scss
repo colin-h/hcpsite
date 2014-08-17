@@ -13,8 +13,9 @@
 #valbanner {
   background-image: url('../img/skylineblue.gif');
   background-size: cover;
-  ms-background-position-x: 0%;
-  ms-background-position-y: 40%;
+  // ms-background-position-x: 0%;
+  // ms-background-position-y: 0%;
+  background-position: center;
   min-width: 100%;
   overflow: hidden;
   // margin-top: 70px;
