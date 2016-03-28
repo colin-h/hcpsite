@@ -2,9 +2,12 @@
   "name": "foundation-libsass-template",
   "version": "0.0.1",
   "devDependencies": {
-    "node-sass": "~0.7.0",
+    "node-sass": "~3.4.2",
     "grunt": "~0.4.1",
-    "grunt-contrib-watch": "~0.5.3",
-    "grunt-sass": "~0.8.0"
+    "grunt-contrib-watch": "~1.0.0",
+    "grunt-sass": "~1.1.0"
+  },
+  "dependencies": {
+    "graceful-fs": "^4.1.3"
   }
 }
